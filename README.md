@@ -1,1 +1,2 @@
 # gitLearning
+Today is wednesday
